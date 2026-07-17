@@ -305,7 +305,7 @@ Features:
 
 📧 Email: jaivirrathi.singh9@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-link](https://www.linkedin.com/in/jaivir-singh-b1982941
+💼 LinkedIn: https://www.linkedin.com/in/jaivir-singh-b1982941
 
 🐙 GitHub: https://github.com/JaiRathi
 
