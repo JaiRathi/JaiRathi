@@ -64,8 +64,6 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 
 <img src="https://skillicons.dev/icons?i=javascript"/>
 
-<img src="https://skillicons.dev/icons?i=python"/>
-
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
 </p>
