@@ -303,13 +303,9 @@ Features:
 
 # 🤝 Connect With Me
 
-📧 Email: your-email@gmail.com
+📧 Email: jaivirrathi.singh9@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-link
-
-🌐 Portfolio: https://yourwebsite.com
-
-📺 YouTube: https://youtube.com/@yourchannel
+💼 LinkedIn: https://linkedin.com/in/your-link](https://www.linkedin.com/in/jaivir-singh-b1982941
 
 🐙 GitHub: https://github.com/JaiRathi
 
