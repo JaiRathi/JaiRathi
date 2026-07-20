@@ -51,6 +51,7 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 - LLM Evaluation
 - Vector Databases
 - Prompt Engineering
+- Real Evaluation Metrics
 
 ---
 
@@ -213,7 +214,7 @@ Features:
 
 🏅 Built Automation Frameworks from Scratch
 
-🏅 Led Cross-functional QA Teams
+🏅 Led QA Teams
 
 🏅 AI-powered Test Automation
 
@@ -227,37 +228,6 @@ Features:
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JaiRathi&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaiRathi&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JaiRathi&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JaiRathi&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
