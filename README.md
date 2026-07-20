@@ -16,7 +16,7 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 
 🔹 Passionate about building scalable automation frameworks using **Playwright, Selenium, Appium, Karate**, and integrating **AI into QA workflows**.
 
-🔹 Currently building **Enterprise AI Solutions** using:
+🔹 Currently building ** AI Solutions** using:
 
 - 🤖 LangFlow
 - 🧠 RAG
