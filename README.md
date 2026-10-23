@@ -35,19 +35,30 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 - LangChain
 - LangGraph
 
----
+## Current Project:
 
-## 🔭 Currently Working On
+## 🚀 Transforming Manual Testing with AI-Driven Quality Engineering
 
-- 🚀 Enterprise RAG using LangFlow
-- 🤖 AI Test Case Generator
-- 🎭 Playwright Automation Framework
-- 📱 Mobile Automation Framework
-- ⚡ n8n AI Automation
-- 📚 ChromaDB Vector Database
-- MCP Integration with Cursor AI
-- Skill.md file creation to avoid dependency 
+## 🤖 AI Test Case and Test Plan Generator
+- Generate production-ready test cases and test plan directly from Jira stories using AI.
+  
+## 🤖 AI-Powered Requirement Analysis
+- Automatically fetch requirements from Jira using a ticket ID, analyze them for clarity, completeness, and potential gaps, and post the analysis results directly as comments on the corresponding Jira tickets.
+  
+## 🤖 AI-Powered Bug Triage Analysis
+- Automatically fetch bug details from Jira using a ticket ID, analyze the reported issues, and post the analysis results directly as comments on the corresponding Jira tickets.
+  
+## 🤖 AI-Powered Bug RCA Analysis
+- Automatically fetch bug details from Jira using a ticket ID, perform AI-powered root cause analysis (RCA), and post the findings, potential root causes, and recommended corrective actions directly as comments on the Jira tickets.
+  
+## 🤖 AI-Powered Bug Quality Analysis
+- Automatically fetch bug details from Jira using a ticket ID, analyze each bug against established QA standards, and post a detailed quality assessment with actionable recommendations directly to the Jira ticket.
 
+## 🚀 Transforming Automation Testing with AI-Driven Quality Engineering
+- Automatically generate Playwright, Apps and API automation scripts using an LLM-powered agent based on test cases created in Jira, leveraging MCP integration to retrieve test details and streamline script generation.
+
+## 🚀 Transforming Performance Testing with AI-Driven Quality Engineering
+- Automatically analyze performance requirements from Jira, generate performance test scripts using an LLM-powered agent, and execute approved tests using Apache JMeter and Lighthouse using playwright
 ---
 
 # 💻 Tech Stack
@@ -87,6 +98,7 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 - REST API
 - GraphQL
 - Swagger
+- Skill.md
 
 ---
 
@@ -128,29 +140,6 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 - Mixpanel
 
 ---
-
-## 🚀 Transforming Manual Testing with AI-Driven Quality Engineering
-
-## 🤖 AI Test Case and Test Plan Generator
-- Generate production-ready test cases and test plan directly from Jira stories using AI.
-  
-## 🤖 AI-Powered Requirement Analysis
-- Automatically fetch requirements from Jira using a ticket ID, analyze them for clarity, completeness, and potential gaps, and post the analysis results directly as comments on the corresponding Jira tickets.
-  
-## 🤖 AI-Powered Bug Triage Analysis
-- Automatically fetch bug details from Jira using a ticket ID, analyze the reported issues, and post the analysis results directly as comments on the corresponding Jira tickets.
-  
-## 🤖 AI-Powered Bug RCA Analysis
-- Automatically fetch bug details from Jira using a ticket ID, perform AI-powered root cause analysis (RCA), and post the findings, potential root causes, and recommended corrective actions directly as comments on the Jira tickets.
-  
-## 🤖 AI-Powered Bug Quality Analysis
-- Automatically fetch bug details from Jira using a ticket ID, analyze each bug against established QA standards, and post a detailed quality assessment with actionable recommendations directly to the Jira ticket.
-
-## 🚀 Transforming Automation Testing with AI-Driven Quality Engineering
-- Automatically generate Playwright, Apps and API automation scripts using an LLM-powered agent based on test cases created in Jira, leveraging MCP integration to retrieve test details and streamline script generation.
-
-## 🚀 Transforming Performance Testing with AI-Driven Quality Engineering
-- Automatically analyze performance requirements from Jira, generate performance test scripts using an LLM-powered agent, and execute approved tests using Apache JMeter and Lighthouse using playwright
 
 **Tech**
 
