@@ -1,275 +1,82 @@
-<h1 align="center">Hi 👋, I'm Jaivir Singh</h1>
-
-<h3 align="center">
-QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n8n| MCP
-</h3>
+<h1 align="center">Jaivir Singh</h1>
+<h3 align="center">QA Automation Lead | SDET | AI-Driven Test Automation</h3>
+<p align="center">
+  Playwright · Selenium · Appium · Karate · LangFlow · RAG · MCP · n8n
+</p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=JaiRathi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <a href="https://www.linkedin.com/in/jaivir-singh-b1982941">LinkedIn</a> ·
+  <a href="mailto:jaivirrathi.singh9@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-🔹 QA Automation Lead with **14+ years of experience** in Web, Mobile, API, Gaming, and AI-powered testing.
+QA Automation Lead with **14+ years** across Web, Mobile, API, Gaming, and AI-powered testing.
+I build automation frameworks from scratch, lead QA teams, and apply **LLMs and agents to
+remove repetitive QA work**: test case generation, requirement analysis, and bug triage.
 
-🔹 Passionate about building scalable automation frameworks using **Playwright, Selenium, Appium, Karate**, and integrating **AI into QA workflows**.
+**Open to:** QA Lead / SDET Manager / AI Test Automation roles.
 
-🔹 Currently building ** AI Solutions** using:
+## 📊 Impact at a Glance
 
-- 🤖 LangFlow
--  Prompt Engineering
-- 🧠 RAG
-- 📚 ChromaDB
-- ⚡ n8n
-- 🐳 Docker
-- ☁️ GitHub Actions
-- 🔥 Groq
--  OpenAI
--  Crew.AI
-- DeepEval
-- LangChain
-- LangGraph
+| Area | Result |
+|------|--------|
+| Frameworks built from scratch | Web, Mobile, API |
+| Test case authoring time | ↓ X% using AI generator |
+| Regression cycle | ↓ X hrs to Y min via parallel CI runs |
+| Team led | X QA engineers |
+
+*(Replace X/Y with your real numbers.)*
 
 ---
 
-## 🔭 Currently Working On
+## 🚀 Featured Projects
 
-- 🚀 Enterprise RAG using LangFlow
-- 🤖 AI Test Case Generator
-- 🎭 Playwright Automation Framework
-- 📱 Mobile Automation Framework
-- ⚡ n8n AI Automation
-- 📚 ChromaDB Vector Database
-- MCP Integration with Cursor AI
+### 🤖 AI QA Assistant for Jira
+Enter a ticket ID and the agent automatically:
+- Generates production-ready test cases from user stories
+- Analyzes requirement gaps and comments on the ticket
+- Triages bugs, performs RCA, and scores bug quality against QA standards
 
----
+**Stack:** LangFlow · OpenAI · MCP · Jira · Xray
+🔗 [Repo](#) · 🎥 [Demo](#)
 
-# 💻 Tech Stack
+### 🧠 Enterprise RAG Assistant
+Chatbot for semantic search across test cases, Jira stories, requirement docs, and a knowledge base.
+**Stack:** LangFlow · ChromaDB · OpenAI/Groq · n8n
+🔗 [Repo](#) · 🎥 [Demo](#)
 
-## Programming Languages
+### 🎭 Playwright Automation Framework
+Page Object Model · Cross-browser · Parallel execution · API + UI · Allure reports · Docker · CI/CD
+🔗 [Repo](#)
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=javascript"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
+### 📱 Mobile & ⚡ API Automation
+Appium (Android/iOS) on BrowserStack/LambdaTest · Karate, REST Assured, Postman/Newman
+🔗 [Repo](#)
 
 ---
 
-## Automation
+## 💻 Tech Stack
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=selenium"/>
-
-<img src="https://playwright.dev/img/playwright-logo.svg" width="45"/>
-
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appium.svg" width="45"/>
-
-</p>
-
----
-
-## API Testing
-
-- Karate
-- Postman
-- REST API
-- GraphQL
-- Swagger
+| Category | Tools |
+|----------|-------|
+| Languages | Java, JavaScript, SQL |
+| UI / Mobile | Playwright, Selenium, Appium |
+| API | Karate, REST Assured, Postman, GraphQL, Swagger |
+| AI / LLM | LangFlow, LangChain, LangGraph, CrewAI, DeepEval, ChromaDB, OpenAI, Groq, Cursor, MCP |
+| CI/CD & DevOps | Docker, Jenkins, GitHub Actions, Git |
+| Performance | JMeter, Lighthouse |
 
 ---
 
-## AI Stack
+## 🔭 Currently Exploring
+Agentic QA with MCP · LLM evaluation using DeepEval · Self-healing test automation
 
-- LangFlow
-- OpenAI
-- Groq
-- ChromaDB
-- Cursor AI
-- RAG
-- n8n
-- MCP
-- Vector Databases
+## 🏆 Certifications
+- (Add ISTQB or others)
 
 ---
 
-## DevOps
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
-<img src="https://skillicons.dev/icons?i=jenkins"/>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</p>
-
----
-
-## Performance
-
-- Apache JMeter
-- Lighthouse
-- Crashlytics
-- Mixpanel
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Test Case Generator
-
-Generate production-ready test cases directly from Jira stories using AI.
-
-**Tech**
-
-- LangFlow
-- OpenAI
-- MCP
-- Jira
-- Xray
-
----
-
-## 🧠 Enterprise RAG Assistant
-
-Enterprise chatbot powered by:
-
-- LangFlow
-- ChromaDB
-- OpenAI
-- Groq
-- n8n
-
-Supports semantic search across:
-
-- Test Cases
-- Jira Stories
-- Requirement Documents
-- Knowledge Base
-
----
-
-## 🎭 Playwright Automation Framework
-
-Features:
-
-✅ Page Object Model
-
-✅ Cross Browser
-
-✅ Parallel Execution
-
-✅ API + UI Testing
-
-✅ Allure Reports
-
-✅ Docker
-
-✅ CI/CD
-
----
-
-## 📱 Mobile Automation
-
-- Appium
-- Android
-- iOS
-- BrowserStack
-- LambdaTest
-
----
-
-## ⚡ API Automation
-
-- Karate
-- Postman
-- REST Assured
-- Newman
-
----
-
-# 🏆 Career Highlights
-
-🏅 14+ Years of QA Experience
-
-🏅 Built Automation Frameworks from Scratch
-
-🏅 Led QA Teams
-
-🏅 AI-powered Test Automation
-
-🏅 Enterprise RAG Solutions
-
-🏅 CI/CD Automation
-
-🏅 Mobile + API + Web Testing
-
-🏅 Performance Testing
-
----
-
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JaiRathi&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🛠️ Skills
-
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium)
-
-![Appium](https://img.shields.io/badge/Appium-662D91?style=for-the-badge)
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-
-![LangFlow](https://img.shields.io/badge/LangFlow-AI-blue?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/RAG-LLM-red?style=for-the-badge)
-
-![n8n](https://img.shields.io/badge/n8n-orange?style=for-the-badge)
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-purple?style=for-the-badge)
-
-![Groq](https://img.shields.io/badge/Groq-black?style=for-the-badge)
-
----
-
-# 🤝 Connect With Me
-
-📧 Email: jaivirrathi.singh9@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/jaivir-singh-b1982941
-
-🐙 GitHub: https://github.com/JaiRathi
-
----
-
-<h3 align="center">
-⭐ If you like my work, don't forget to star my repositories ⭐
-</h3>
+<p align="center">⭐ Star my repos if they help you</p>
