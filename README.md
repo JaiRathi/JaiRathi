@@ -19,13 +19,18 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 🔹 Currently building ** AI Solutions** using:
 
 - 🤖 LangFlow
+-  Prompt Engineering
 - 🧠 RAG
 - 📚 ChromaDB
 - ⚡ n8n
 - 🐳 Docker
 - ☁️ GitHub Actions
 - 🔥 Groq
-- OpenAI
+-  OpenAI
+-  Crew.AI
+- DeepEval
+- LangChain
+- LangGraph
 
 ---
 
@@ -38,20 +43,6 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 - ⚡ n8n AI Automation
 - 📚 ChromaDB Vector Database
 - MCP Integration with Cursor AI
-
----
-
-## 🌱 Currently Learning
-
-- AI Agents
-- LangGraph
-- CrewAI
-- Multi-Agent Systems
-- Advanced RAG
-- LLM Evaluation
-- Vector Databases
-- Prompt Engineering
-- Real Evaluation Metrics
 
 ---
 
