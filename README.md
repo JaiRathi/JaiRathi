@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Jaivir Singh</h1>
 
 <h3 align="center">
-QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n8n| MCP
+QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n8n| MCP | LangChain | DeepEval | LangGraph
 </h3>
 
 <p align="center">
