@@ -46,6 +46,7 @@ QA Automation Lead | SDET | AI Test Automation | Playwright | LangFlow | RAG | n
 - ⚡ n8n AI Automation
 - 📚 ChromaDB Vector Database
 - MCP Integration with Cursor AI
+- Skill.md file creation to avoid dependency 
 
 ---
 
